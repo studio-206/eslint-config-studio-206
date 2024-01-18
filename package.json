@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-studio-206",
+  "version": "0.0.1",
+  "description": "Eslint config for Studio 206.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "karl@studio206.dev",
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^14.0.4"
+  }
+}
