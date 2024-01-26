@@ -3,5 +3,6 @@ module.exports = {
   plugins: ["@stylistic"],
   rules: {
     "@stylistic/quotes": [2, "double"],
+    "@typescript-eslint/no-unused-vars": "error",
   },
 };
