@@ -10,7 +10,7 @@
   "author": "karl@studio206.dev",
   "contributors": [],
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@next/eslint-plugin-next": "^14.0.4",
     "@stylistic/eslint-plugin": "^1.5.4",
     "@typescript-eslint/eslint-plugin": "^6.19.1",
