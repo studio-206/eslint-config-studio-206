@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-studio-206",
+  "name": "@studio206/eslint-config",
   "version": "0.0.1",
   "description": "Eslint config for Studio 206.",
   "main": "index.js",
